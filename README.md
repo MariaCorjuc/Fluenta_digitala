@@ -1,4 +1,4 @@
-# fluenta_digitala
+# Fluenta Digitala
 
 ## Membrii echipei:
 Teona Bulearca
